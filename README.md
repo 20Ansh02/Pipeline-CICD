@@ -2,7 +2,7 @@
 Create EC2 instances for the following
 - JENKINS (INstall docker , java, Jenkins) -> run on port 8080 by default [Click Here](https://github.com/20Ansh02/Pipeline-CICD/blob/main/Set%20up%20Jenkins%20Server.md)
 - SonarQube (install Docker, install sonarQube) -> sudo docker run -d -p 9000:9000 sonarqube:lts-community [Click Here](https://github.com/20Ansh02/Pipeline-CICD/blob/main/Set-up%20SonarQube.md)
-- Nexus (install docker, nexus) -> sudo docker -d -p 8081:8081 sonatype/nexus3 [Click Here](https://github.com/20Ansh02/Pipeline-Ekart/blob/main/Setup%20Nexus.md)
+- Nexus (install docker, nexus) -> sudo docker -d -p 8081:8081 sonatype/nexus3 [Click Here](https://github.com/20Ansh02/Pipeline-CICD/blob/main/Setup%20Nexus.md)
 - Kubernetes (1 master, 2 slave servers )(docker, kubernetes) [Click Here](https://github.com/20Ansh02/Pipeline-Ekart/blob/main/Setup%20Kubernetes.md)
 All installation command with guidelines are provided in the same repo please read it carefully.
 
