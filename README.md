@@ -11,11 +11,11 @@ All installation command with guidelines are provided in the same repo please re
 - Configure Tools
 - Connet Tools
 - Create pipeline
-All these stpes are explained in 'CICD Plugins and Code.md' file [Click Here](https://github.com/20Ansh02/Pipeline-Ekart/blob/main/CICD%20Plugins%20and%20Code.md), fololow the steps to create the pipeline.
+All these stpes are explained in 'CICD Plugins and Code.md' file [Click Here](https://github.com/20Ansh02/Pipeline-CICD/blob/main/CICD%20Plugins%20and%20Code.md), follow the steps to create the pipeline.
 
 # Phase 3
-After the successfull creation of the pipeline, go to the console output in jenkins it will provide you the port number in which the application is running.
-Copy the ip address of slave 1 and paste it like (eg. 1.1.1.1:31623)
+After the successful creation of the pipeline, go to the console output in Jenkins it will provide you with the port number in which the application is running.
+Copy the IP address of slave 1 and paste it like (eg. 1.1.1.1:31623)
 
 
 # RESULT
