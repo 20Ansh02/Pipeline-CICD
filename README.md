@@ -19,7 +19,5 @@ Copy the IP address of slave 1 and paste it like (eg. 1.1.1.1:31623)
 
 
 # RESULT
-![Alt Text](Images/1.png)
-
 For All the result images [Click here](https://github.com/20Ansh02/Pipeline-CICD/blob/main/Results.md)
 
